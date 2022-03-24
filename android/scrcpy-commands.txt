@@ -1,0 +1,14 @@
+// listar os dispositivos conectados
+adb devices
+
+
+// iniciar server na porta 5555 para transmissão
+adb tcpip 5555
+
+
+// conectar ao celular
+adb connect IP:5555
+
+
+// iniciar controle remoto
+start scrcpy.exe
