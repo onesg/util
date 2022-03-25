@@ -1,3 +1,5 @@
+# Habilitar o modo beta experiments no Discord. <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="32pt">
+
 ### Abra o discord, pressione o comando: `Ctrl`+`Shift`+`C`, na aba console cole o código abaixo:
 
 ```js
