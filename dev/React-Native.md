@@ -9,13 +9,14 @@ $ expo init project-name
 
 
 // iniciar o projeto
-$ npm start
+$ npm start 
 
 
 
 
 
 ------------------------------
+usa o segundo*
 
 // instalar create-react-native-app
 $ npm install -g create-react-native-app
@@ -29,3 +30,7 @@ $ npm install -g react-native-cli
 
 // iniciar o projeto
 $ npm start
+
+ou 
+
+$ npm run web
